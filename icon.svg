@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#020617"/>
+  <rect x="40" y="40" width="432" height="432" rx="60" fill="#0f172a"/>
+  <!-- LG red square badge -->
+  <rect x="96" y="140" width="320" height="232" rx="24" fill="#b91c1c"/>
+  <!-- L -->
+  <rect x="128" y="172" width="28" height="120" rx="4" fill="white"/>
+  <rect x="128" y="264" width="80" height="28" rx="4" fill="white"/>
+  <!-- G -->
+  <path d="M260 172 h80 a12 12 0 0 1 12 12 v28 h-28 v-12 h-52 v84 h52 v-24 h-32 v-28 h60 v64 a12 12 0 0 1 -12 12 h-80 a12 12 0 0 1 -12 -12 v-112 a12 12 0 0 1 12 -12z" fill="white"/>
+  <!-- HVAC subtitle -->
+  <text x="256" y="408" font-family="system-ui,sans-serif" font-size="36" font-weight="700" fill="#64748b" text-anchor="middle" letter-spacing="4">HVAC</text>
+</svg>
